@@ -1,1 +1,2 @@
 a6463e944d83ab2959437c8fa707f0fcbe6bf602eb94b09dc110964e55c1528b  behance-idm-helper-1.1.0-windows.zip
+5919c84a6f72fd012106c3b33cf1441d888ccf29618c2e45aff51fd47c2e54bc  behance-idm-helper-1.1.1-windows.zip
